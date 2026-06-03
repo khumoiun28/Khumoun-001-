@@ -1,0 +1,6 @@
+{
+  "name": "10 слов: Корейский",
+  "description": "Интерактивный виджет для изучения корейского языка — по 10 слов каждый день с RPG-прогрессом (EXP), защитой от баннерной слепоты и адаптивными темами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
